@@ -9,7 +9,7 @@
 
 ### Functionality
 
-1. **CRUD**
+1. **CRUD, sign up, sign in, forgot and reset password, geolocation with cities**
 2. **Authentication/Authorization**
 3. **Refactors code**
 4. **API features:** query, pagination....

@@ -3,5 +3,6 @@
 *.env
 
 *.docx
+*.txt
 
 /data
